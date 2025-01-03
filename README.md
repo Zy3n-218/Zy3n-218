@@ -11,3 +11,9 @@ This portfolio aims to showcase relevant skills and technologies that I have lea
 * SIEM and SOAR tools for cybersecurity
 * Detecting and responding to incidents using an IDS
 * Performing packet capture and analysis
+
+### Skills
+
+| Projects | Skills/Knowledge Gained | 
+| :--- |:---:|
+| [1] |:---:|
