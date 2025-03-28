@@ -22,7 +22,6 @@ vendor_sales - Information about Buttercup Games' retail sales.
 1. Login/signup to Splunk.
 2. Add Data on the Splunk bar. 
 3. Upload data into Splunk.
-4. Select file and upload `tutorialdata.zip`. Please visit this [link](https://github.com/user-attachments/files/19496866/tutorialdata.zip
-)
+4. Select file and upload `tutorialdata.zip`. Please visit this [link](https://drive.google.com/file/d/1nDz_DZB4ADbD4tvaDa54_l1FoT_jtVy4/view)
 
    
