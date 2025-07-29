@@ -1,8 +1,6 @@
 # Hi, I'm Zyen!
 
-My name is Zyen Atkins. As a recent Computer Information Systems graduate from Valdosta State University, I am eager to deepen my expertise in cybersecurity and its applications across industries. I have recently completed the Google Cybersecurity Professional Certificate to prepare myself for work in the cybersecurity field, and am currently studying for the CompTIA Security+ exam.
-
-
+My name is Zyen Atkins. As a recent Computer Information Systems graduate from Valdosta State University, I am eager to deepen my expertise in cybersecurity and its applications across industries. I have recently completed the Google Cybersecurity Professional Certificate and CompTIA Security+ exam to prepare myself for work in the cybersecurity field.
 
 ### Cybersecurity Projects 👨🏾‍💻
 
@@ -17,4 +15,5 @@ My name is Zyen Atkins. As a recent Computer Information Systems graduate from V
 | [7](https://github.com/Zy3n-218/Zyen-Cybersecurity-Portfolio/tree/main/7%20-%20Python%20Automation) - Automation with Python | `Computer Programming`, `Python Programming`, `Coding`, `PEP 8 Style Guide`| 
 
 ### Certifications
-* Google Cybersecurity Professional
+* CompTIA Security+, July 2025
+* Google Cybersecurity Professional, March 2025
